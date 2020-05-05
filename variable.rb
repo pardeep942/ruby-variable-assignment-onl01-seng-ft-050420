@@ -4,4 +4,3 @@ def greeting
   Puts "Hello World"
 
 end
-  
